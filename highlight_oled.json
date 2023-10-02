@@ -1,0 +1,135 @@
+{
+    "name": "Highlight OLED",
+    "description": "Blloc's inspired theme made by episode.",
+    "authors": [
+        {
+            "name": "episode",
+            "id": "663010273359298578"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#E2FF00"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#868686"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#868686"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#E2FF00"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#262626"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#868686"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#262626"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#262626"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#E2FF00"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#868686"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#E2FF00"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#262626"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#868686"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#868686"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#E2FF00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "E2FF00"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#262626"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#E2FF00"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#E2FF00"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#868686"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9E8376"
+        ],
+        "TEXT_LINK": [
+            "#E2FF00"
+        ],
+        "TEXT_DANGER": [
+            "#ff0000"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#E2FF00"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376",
+        "PRIMARY_400": "#9E8376",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#957261",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#957261",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#957261",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#9E8376",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#503E38"
+    },
+    "spec": 2
+}
