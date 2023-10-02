@@ -30,13 +30,13 @@
             "#E2FF00"
         ],
         "INTERACTIVE_MUTED": [
-            "#262626"
+            "#868686"
         ],
         "BACKGROUND_PRIMARY": [
             "#262626"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#868686"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#262626"
@@ -110,7 +110,7 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
+        "PRIMARY_500": "#000000",
         "PRIMARY_100": "#EFDFD7",
         "PRIMARY_200": "#F4EAE5",
         "PRIMARY_300": "#9E8376",
