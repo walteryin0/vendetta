@@ -24,7 +24,7 @@
             "#868686"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFFFFF"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
             "#E2FF00"
@@ -39,7 +39,7 @@
             "#262626"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#262626"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#262626"
@@ -67,7 +67,7 @@
             "#868686"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#868686"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#E2FF00"
