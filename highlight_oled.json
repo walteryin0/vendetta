@@ -36,7 +36,7 @@
             "#262626"
         ],
         "BACKGROUND_SECONDARY": [
-            "#868686"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#262626"
@@ -61,7 +61,7 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#262626"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#868686"
