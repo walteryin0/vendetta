@@ -42,7 +42,7 @@
             "#262626"
         ],
         "BACKGROUND_TERTIARY": [
-            "#E2FF00"
+            "#262626"
         ],
         "BACKGROUND_ACCENT": [
             "#E2FF00"
@@ -91,7 +91,7 @@
             "#868686"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#000000"
         ],
         "TEXT_LINK": [
             "#E2FF00"
